@@ -1,7 +1,10 @@
 # UE4-PHISMTools
 ### Procedural Hierarchical Instanced Static Mesh (PHISM) Tools for Unreal Engine 4.
 
-#### [I'm currently working on a new plugin called ProInstance Tools which is a major extension based on PHISM Tools]
+### This tools are no longer supported and are provided as-is.
+
+For much more expanded procedural instancing tools for UE4 please follow here:
+https://www.unrealengine.com/marketplace/en-US/product/proinstance-tools-plugin
 
 Created to simplify Level Design workflow and reduce iteration times.
 
